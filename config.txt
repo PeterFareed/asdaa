@@ -1,0 +1,6 @@
+﻿token=NTkxMDYxNzgzMzk4MDU1OTM5.XQrTNQ.90bR2MxWR8CqTbajDAzNDrUepfM
+owner=547091659553243138
+prefix=1
+game=Music|1play
+stayinchannel=true
+songinstatus=false
